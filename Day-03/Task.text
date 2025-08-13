@@ -1,0 +1,34 @@
+Task:
+-----
+
+Input-1:
+	5
+Output-1:
+
+	24F41A3201
+	24F41A3202
+	24F41A3203
+	24F41A3204
+	24F41A3205
+
+Input-2:
+	11
+Output-2:
+	24F41A3201
+	24F41A3202
+	24F41A3203
+	24F41A3204
+	24F41A3205
+	24F41A3206
+	24F41A3207
+	24F41A3208
+	24F41A3209
+	24F41A3210
+
+Topics:
+-------
+	- Inner Loops
+	- Functions and its types
+	- User Defined Function types
+	- Function Argument types
+	- All Data Structures Overview[list,set,string,tuple and dictionary]
